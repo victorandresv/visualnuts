@@ -4,7 +4,7 @@
   "description": "Teste Visual Nuts",
   "scripts": {
     "test": "jest --coverage",
-    "app1": "node execute_app1.js"
+    "app1": "node app1.cjs"
   },
   "author": "Victor Vargas",
   "license": "ISC",
