@@ -1,4 +1,4 @@
-const Numbers = require('./functions.cjs')
+const { Numbers } = require('./functions.cjs')
 
 const data = Numbers()
 data.forEach(item => {

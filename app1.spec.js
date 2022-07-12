@@ -1,4 +1,4 @@
-const Numbers = require('./functions.cjs')
+const { Numbers } = require('./functions.cjs')
 
 test('15 Should get Visual Nuts', () => {
     var out = ""

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<coverage generated="1657632679444" clover="3.2.0">
-  <project timestamp="1657632679444" name="All files">
-    <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1" elements="21" coveredelements="21" complexity="0" loc="12" ncloc="12" packages="1" files="1" classes="1"/>
+<coverage generated="1657638452960" clover="3.2.0">
+  <project timestamp="1657638452960" name="All files">
+    <metrics statements="58" coveredstatements="58" conditionals="30" coveredconditionals="30" methods="11" coveredmethods="11" elements="99" coveredelements="99" complexity="0" loc="58" ncloc="58" packages="1" files="1" classes="1"/>
     <file name="functions.cjs" path="/Users/victorvargas/Projects/2022/JobTest/VisualNuts/functions.cjs">
-      <metrics statements="12" coveredstatements="12" conditionals="8" coveredconditionals="8" methods="1" coveredmethods="1"/>
-      <line num="7" count="1" type="stmt"/>
+      <metrics statements="58" coveredstatements="58" conditionals="30" coveredconditionals="30" methods="11" coveredmethods="11"/>
+      <line num="7" count="2" type="stmt"/>
       <line num="8" count="4" type="stmt"/>
       <line num="9" count="4" type="stmt"/>
       <line num="10" count="400" type="cond" truecount="4" falsecount="0"/>
@@ -15,7 +15,53 @@
       <line num="21" count="56" type="stmt"/>
       <line num="26" count="212" type="stmt"/>
       <line num="32" count="4" type="stmt"/>
-      <line num="36" count="1" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="41" count="8" type="stmt"/>
+      <line num="49" count="2" type="stmt"/>
+      <line num="50" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="51" count="2" type="stmt"/>
+      <line num="52" count="2" type="stmt"/>
+      <line num="53" count="10" type="cond" truecount="2" falsecount="0"/>
+      <line num="54" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="55" count="2" type="stmt"/>
+      <line num="56" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="57" count="1" type="stmt"/>
+      <line num="61" count="2" type="stmt"/>
+      <line num="66" count="1" type="stmt"/>
+      <line num="74" count="2" type="stmt"/>
+      <line num="75" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="76" count="1" type="stmt"/>
+      <line num="77" count="1" type="stmt"/>
+      <line num="78" count="5" type="cond" truecount="2" falsecount="0"/>
+      <line num="79" count="1" type="stmt"/>
+      <line num="80" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="81" count="1" type="stmt"/>
+      <line num="84" count="1" type="stmt"/>
+      <line num="86" count="1" type="stmt"/>
+      <line num="94" count="2" type="stmt"/>
+      <line num="95" count="2" type="cond" truecount="2" falsecount="0"/>
+      <line num="96" count="1" type="stmt"/>
+      <line num="97" count="1" type="stmt"/>
+      <line num="98" count="5" type="stmt"/>
+      <line num="99" count="7" type="stmt"/>
+      <line num="103" count="1" type="stmt"/>
+      <line num="104" count="1" type="stmt"/>
+      <line num="105" count="1" type="stmt"/>
+      <line num="106" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="107" count="7" type="stmt"/>
+      <line num="113" count="1" type="stmt"/>
+      <line num="114" count="1" type="stmt"/>
+      <line num="115" count="7" type="cond" truecount="2" falsecount="0"/>
+      <line num="116" count="1" type="stmt"/>
+      <line num="117" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="118" count="1" type="stmt"/>
+      <line num="122" count="1" type="stmt"/>
+      <line num="124" count="1" type="stmt"/>
+      <line num="129" count="2" type="stmt"/>
+      <line num="130" count="2" type="stmt"/>
+      <line num="131" count="2" type="stmt"/>
+      <line num="132" count="2" type="stmt"/>
+      <line num="133" count="2" type="stmt"/>
     </file>
   </project>
 </coverage>
