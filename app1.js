@@ -1,13 +1,12 @@
-
 /**
  * Get the whole integer numbers to the console, start 
  * from the number 1, and get all numbers going up to the number 100,
  * showing string messages when is divisible by 3 and 5
  * @returns array
  */
-function numbers(){
+ var Numbers = () => {
     const numbers = [];
-    for(n=1;n<=100;n++){
+    for(var n=1;n<=100;n++){
         if(n%3 == 0 && n%5 == 0){
             numbers.push({
                 number: n,
@@ -33,10 +32,7 @@ function numbers(){
     return numbers;
 }
 
-/**
- * Print exercise
- */
-const data = numbers()
+const data = Numbers()
 data.forEach(item => {
     if(item.label == ''){
         console.log(item.number)
@@ -44,3 +40,6 @@ data.forEach(item => {
         console.log(item.label)
     }
 })
+
+
+module.exports = Numbers;

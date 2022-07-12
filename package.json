@@ -2,13 +2,14 @@
   "name": "visualnuts",
   "version": "1.0.0",
   "description": "Teste Visual Nuts",
-  "main": "app1.js",
   "scripts": {
-    "test": "jest --coverage"
+    "test": "jest --coverage",
+    "app1": "node execute_app1.js"
   },
   "author": "Victor Vargas",
   "license": "ISC",
   "dependencies": {
     "jest": "^28.1.2"
-  }
+  },
+  "type": "module"
 }
