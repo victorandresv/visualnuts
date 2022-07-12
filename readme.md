@@ -12,7 +12,7 @@ npm run app2
 ```
 
 
-## UNIT TESTING
+## RUN UNIT TEST
 ```sh
 npm test
 ```
